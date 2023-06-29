@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       banner=https://th.bing.com/th/id/OIP.2SpDX9YoOV22f8b6efnXmAHaE8?pid=ImgDet&rs=1
+       banner="https://th.bing.com/th/id/OIP.2SpDX9YoOV22f8b6efnXmAHaE8?pid=ImgDet&rs=1"
        author="Armando Guzman Ramirez"
        layout="vertical">
 
