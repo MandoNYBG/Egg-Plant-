@@ -12,6 +12,7 @@
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q414" title="Argentina"> 
 <param ve-image label= "Wiki" description="photograph" license="public domain"url= https://m.media-amazon.com/images/I/51Yeh8RlXPL._AC_.jpg
+       <param ve-image url= 
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 
